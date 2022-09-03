@@ -9,6 +9,7 @@ The following workflow has been used for the coding pipeline:
   <li>
   </li>
   </ul>
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mn5hk/smartxhealth_surakshit/HEAD) 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mn5hk/smartxhealth_surakshit/HEAD) <br>
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mn5hk/my-first-binder/HEAD) <br>
 
 
