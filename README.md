@@ -9,9 +9,9 @@ The following workflow has been used for the coding pipeline:
   <li>The third part of the coding pipeline consists of an interactive prototype for the front-end (what the user sees); made in Figma. The link to the Figma interactive prototype is presented here: https://www.figma.com/proto/FCbdNjxBBKfy01QomLLaUz/Untitled?node-id=2%3A2&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=2%3A2
   </li>
   </ul>
-  Project concept note can be found here: https://sway.office.com/aOTJhgcQWI4V5eJp?ref=Link
-  Project problem statement can be found here: https://sway.office.com/uQQ7MZBjEOOTyryn?ref=Link
-  Final presentation is available here: https://github.com/mn5hk/smartxhealth_suraksha/blob/main/Surakshya.pptx
+  Project concept note can be found here: https://sway.office.com/aOTJhgcQWI4V5eJp?ref=Link <br>
+  Project problem statement can be found here: https://sway.office.com/uQQ7MZBjEOOTyryn?ref=Link <br>
+  Final presentation is available here: https://github.com/mn5hk/smartxhealth_suraksha/blob/main/Surakshya.pptx <br>
 
 
 
