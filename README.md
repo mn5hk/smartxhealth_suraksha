@@ -14,6 +14,7 @@ The following workflow has been used for the coding pipeline:
   Product canvas: https://github.com/mn5hk/smartxhealth_suraksha/blob/main/02%20pictures/03_canvas/01_product_canvas.jpeg <br>
   Progress indicator: https://github.com/mn5hk/smartxhealth_suraksha/blob/main/02%20pictures/03_canvas/02_progress_indicator.jpeg <br>
   Final presentation is available here: https://github.com/mn5hk/smartxhealth_suraksha/blob/main/Surakshya.pptx <br>
+  Video Summary: https://youtu.be/czVSHlw2ozw
 
 
 
