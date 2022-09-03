@@ -9,7 +9,7 @@ The following workflow has been used for the coding pipeline:
   <li>The third part of the coding pipeline consists of an interactive prototype for the front-end (what the user sees); made in Figma. The link to the Figma interactive prototype is presented here:
   </li>
   </ul>
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mn5hk/smartxhealth_surakshit/HEAD) <br>
+[![Binder](https://mybinder.org/badge_logo.svg)] (https://mybinder.org/v2/gh/mn5hk/smartxhealth_surakshit/HEAD) <br>
 
 
 
