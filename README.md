@@ -1,5 +1,5 @@
 # smartxhealth_surakshit
-This repo contains submissions for the IISc-Siemens Hackathon 2022 https://iisc.ac.in/events/smartx-health-2022-a-iisc-siemens-hackathon/ 
+This repo contains submissions of Team Surakshya for the IISc-Siemens Hackathon 2022 https://iisc.ac.in/events/smartx-health-2022-a-iisc-siemens-hackathon/ 
 
 The following workflow has been used for the coding pipeline:
 <ul>
